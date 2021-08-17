@@ -4,8 +4,6 @@ const Job = ({ job }) => {
   const {
     logo,
     company,
-    isNew,
-    featured,
     position,
     postedAt,
     contract,
